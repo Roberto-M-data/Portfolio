@@ -1,8 +1,8 @@
 ---
 title: Welcome to my blog
 ---
-SQL Project "Coming Soon"
+1. SQL Project "Coming Soon"
 
-Capstone Project "Coming Soon"
+2. Capstone Project "Coming Soon"
 
-Excel Project "Coming Soon"
+3. Excel Project "Coming Soon"
