@@ -5,4 +5,4 @@ title: Welcome to my blog
 
 2. Capstone Project https://www.kaggle.com/code/robertoriosmorales/capstone-project
 
-3. Excel Project "Coming Soon"
+
